@@ -8,4 +8,4 @@
   *lodash
   *react-native-loader
   
-<center>![Image](./infinite.gif)</center>
+![Image](./infinite.gif)
