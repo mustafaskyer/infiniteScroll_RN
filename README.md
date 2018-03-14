@@ -7,5 +7,5 @@
   * moment
   * lodash
   * react-native-loader
-  
-![Image](./infinite.gif)
+ 
+  <div style="text-align:center"><img src ="./infinite.gif" /></div>
