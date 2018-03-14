@@ -8,4 +8,4 @@
   * lodash
   * react-native-loader
  
-  <div style="text-align:center"><img src ="./infinite.gif" /></div>
+  <div style="text-align:center"><img style="text-align:center" src ="./infinite.gif" /></div>
